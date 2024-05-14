@@ -65,11 +65,11 @@ def read_file(filename):
 
 def main():
     print("""
-###########
-# Developed by @jeion3x0
-#
-# Only for educational purposes!
-###########
+##################################
+# Developed by @jeion3x0         #
+#                                #
+# Only for educational purposes! #
+##################################
 """)
 
     parser = argparse.ArgumentParser()
