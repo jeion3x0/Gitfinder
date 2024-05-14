@@ -1,12 +1,9 @@
 #!/usr/bin/env python3
 
 '''
-Finder is part of https://github.com/internetwache/GitTools
+ Developed by @jeion3x0
 
-Developed and maintained by @gehaxelt from @internetwache
-
-Use at your own risk. Usage might be illegal in certain circumstances.
-Only for educational purposes!
+ Only for educational purposes!
 '''
 
 import argparse
@@ -69,11 +66,8 @@ def read_file(filename):
 def main():
     print("""
 ###########
-# Finder is part of https://github.com/internetwache/GitTools
+# Developed by @jeion3x0
 #
-# Developed and maintained by @gehaxelt from @internetwache
-#
-# Use at your own risk. Usage might be illegal in certain circumstances.
 # Only for educational purposes!
 ###########
 """)
